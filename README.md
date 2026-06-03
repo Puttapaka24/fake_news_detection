@@ -13,7 +13,8 @@ Navigate to the project directory: cd fake-news-detection
 Install the required dependencies: pip install -r requirements.txt
 
 Usage:
-Ensure you have Python installed on your system. You can run the project by executing the following command: python fake_news_detection.py
+You can run the project by executing the following command: python fake_news_detection.py
+
 Dependencies:
 numpy
 pandas
@@ -28,3 +29,7 @@ Feature Extraction: Text data is converted into numerical vectors using the TF-I
 Model Training: The Logistic Regression model is trained on the preprocessed data.
 
 Evaluation: The model's accuracy is evaluated using the test dataset.
+
+PorterStemmer: This tool is used to reduce words to their root form.
+
+Logistic Regression: Used for classification problems and predicts true or false.
