@@ -7,7 +7,7 @@ This project aims to detect fake news using Python. It employs Natural Language 
 Clone the repository:
 
 ```bash
-git clone https://github.com/fdevil420/fake-news-detection.git
+git clone: https://github.com/Puttapaka24/fake_news_detection.git
 
 Navigate to the project directory: cd fake-news-detection
 Install the required dependencies: pip install -r requirements.txt
